@@ -189,4 +189,10 @@ Silakan lakukan fork repository ini dan kirim pull request jika ada perbaikan at
 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 
+
+
+Link Postman
+https://web.postman.co/workspace/Marketplace-API~05291854-9794-4e12-8bdd-0ce3a3fdabc2/overview
+
+Jika ada yang ingin Anda tambahkan atau ubah, silakan beri tahu saya!
 # backend-dandi-agus-wijaya
