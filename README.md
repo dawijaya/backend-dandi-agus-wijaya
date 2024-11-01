@@ -189,10 +189,4 @@ Silakan lakukan fork repository ini dan kirim pull request jika ada perbaikan at
 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 
-### Catatan:
-- Gantilah placeholder seperti `username`, `your_jwt_secret`, dan ID produk sesuai dengan yang Anda gunakan.
-- Pastikan untuk menyesuaikan URL GitHub dengan milik Anda pada bagian clone repository.
-- Jika ada tambahan informasi atau detail lain yang perlu dicantumkan, Anda bisa mengedit README tersebut. 
-
-Jika ada yang ingin Anda tambahkan atau ubah, silakan beri tahu saya!
 # backend-dandi-agus-wijaya
